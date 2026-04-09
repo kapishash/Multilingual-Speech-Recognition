@@ -310,9 +310,7 @@ for _, row in tqdm(test_df.iterrows(), total=len(test_df)):
 
 ```
 nppe2-multilingual-asr/
-├── nppe2_finetune.ipynb      # Main fine-tuning notebook
-├── nppe2_asr.ipynb           # Zero-shot inference notebook  
-├── nppe2_wav2vec2.ipynb      # wav2vec2 XLSR experiment
+├── 21f3000371.ipynb      # Main fine-tuning notebook
 └── README.md
 ```
 
